@@ -1,0 +1,23 @@
+https://bestcf.pages.dev/wetest/ipv4.txt
+https://bestcf.pages.dev/uouin/all.txt
+https://bestcf.pages.dev/xinyitang3/ipv4.txt
+https://bestcf.pages.dev/lzj/all.txt
+https://bestcf.pages.dev/cfyes/ipv4.txt
+https://bestcf.pages.dev/tiancheng/all.txt
+https://bestcf.pages.dev/tiancheng2/all.txt
+https://bestcf.pages.dev/gslege/Cfxyz.txt
+https://bestcf.pages.dev/gslege/SG.txt
+https://raw.githubusercontent.com/love-ztm/cfip/refs/heads/main/best_ips.txt
+https://raw.githubusercontent.com/love-ztm/cfip/refs/heads/main/ubest_ips.txt
+https://raw.githubusercontent.com/svip-s/cloudflare_ip/refs/heads/main/best_ips.txt
+https://bestcf.pages.dev/zhixuanwang/ipv4-onlyip.txt
+https://bestcf.pages.dev/vvhan/ipv4.txt
+https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv4.txt
+https://raw.githubusercontent.com/yuanxiawan/cfipv4db/refs/heads/main/cfip.txt
+https://bestcf.pages.dev/cmliu/all.txt
+https://raw.githubusercontent.com/cmliu/WorkerVless2sub/refs/heads/main/addressesapi.txt
+https://raw.githubusercontent.com/einsitang/my-fast-cf-ip/refs/heads/master/fastips.txt
+https://raw.githubusercontent.com/hubbylei/bestcf/refs/heads/main/bestcf.txt
+https://raw.githubusercontent.com/gshtwy/CF-DNS-Clone/refs/heads/main/wetest-cloudflare-v4.txt
+https://raw.githubusercontent.com/JieChaoCC/cf-ip-auto/refs/heads/main/data/ipapi.txt 1https://bestcf.pages.dev/ircf/ipv4.txt
+https://bestcf.pages.dev/entryip/50.txt
